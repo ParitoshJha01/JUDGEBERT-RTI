@@ -1,0 +1,38 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.onnx
+
+# Model caches
+.cache/
+huggingface_cache/
+
+# Old experiments and checkpoints
+output/archive/
+output/*_best_model/
+
+# Dataset: publish only the final model-ready CSV
+dataset/*
+!dataset/
+!dataset/RTI_Model_Ready_Dataset_Updated_Average.csv
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db

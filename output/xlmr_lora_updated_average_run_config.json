@@ -1,0 +1,27 @@
+{
+  "model": "FacebookAI/xlm-roberta-base",
+  "method": "LoRA",
+  "rank": 8,
+  "alpha": 16,
+  "dropout": 0.1,
+  "target_modules": [
+    "query",
+    "value"
+  ],
+  "max_length": 256,
+  "batch_size": 4,
+  "epochs_requested": 15,
+  "learning_rate": 0.0001,
+  "patience": 3,
+  "seed": 42,
+  "best_epoch": 5,
+  "best_validation_rmse": 0.5359287717850444,
+  "test_metrics": {
+    "N": 46,
+    "Pearson_r": 0.07276084247732473,
+    "Spearman_rho": 0.016520863665594212,
+    "MAE": 0.546588192815366,
+    "RMSE": 0.6776710056174591
+  },
+  "label_caveat": "Provisional weighted consensus scores; inter-annotator agreement was poor/negative."
+}

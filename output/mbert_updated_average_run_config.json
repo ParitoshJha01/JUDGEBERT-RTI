@@ -1,0 +1,20 @@
+{
+  "model_name": "google-bert/bert-base-multilingual-cased",
+  "max_length": 256,
+  "batch_size": 4,
+  "epochs_requested": 10,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "patience": 3,
+  "seed": 42,
+  "best_epoch": 4,
+  "best_validation_rmse": 0.49146422771132264,
+  "test_metrics": {
+    "N": 46,
+    "Pearson_r": 0.3694102323791627,
+    "Spearman_rho": 0.25519728041020145,
+    "MAE": 0.4566764831542969,
+    "RMSE": 0.5951652611051559
+  },
+  "label_caveat": "Targets are provisional weighted consensus scores; inter-annotator agreement was poor/negative."
+}

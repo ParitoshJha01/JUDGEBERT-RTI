@@ -1,0 +1,31 @@
+{
+  "model_name": "google/muril-base-cased",
+  "method": "LoRA",
+  "version": "v2",
+  "pooling": "attention-mask-aware mean pooling",
+  "output_mapping": "1 + 9 * sigmoid(logit)",
+  "target_modules": [
+    "query",
+    "value"
+  ],
+  "rank": 8,
+  "alpha": 16,
+  "dropout": 0.1,
+  "max_length": 256,
+  "batch_size": 4,
+  "epochs_requested": 15,
+  "learning_rate": 5e-05,
+  "weight_decay": 0.01,
+  "patience": 4,
+  "seed": 42,
+  "best_epoch": 15,
+  "best_validation_rmse": 2.493391749869159,
+  "test_metrics": {
+    "N": 46,
+    "Pearson_r": -0.015932825512176355,
+    "Spearman_rho": 0.024405821324173266,
+    "MAE": 2.4648546097071273,
+    "RMSE": 2.5398853923680074
+  },
+  "label_caveat": "Targets are provisional weighted consensus scores; prior inter-annotator agreement was poor/negative."
+}

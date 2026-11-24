@@ -1,0 +1,301 @@
+﻿Pair_ID,Language,Split,LMP_Score,Cosine_Similarity,Predicted_LMP_Score,Provisional_Label
+RTI-001,English,train,8.875,0.9491631,8.607003,Preserved
+RTI-002,English,train,8.0,0.88172686,8.537476,Preserved
+RTI-003,English,train,8.625,0.9262593,8.583389,Preserved
+RTI-004,English,test,9.0,0.8953577,8.551529,Preserved
+RTI-005,English,train,8.75,0.850453,8.505233,Preserved
+RTI-006,English,train,8.875,0.8923804,8.54846,Preserved
+RTI-007,English,test,9.125,0.9745915,8.63322,Preserved
+RTI-008,English,train,8.75,0.8226414,8.476559,Preserved
+RTI-009,English,train,8.875,0.902387,8.558777,Preserved
+RTI-010,English,train,8.75,0.9504152,8.608294,Preserved
+RTI-011,English,train,8.625,0.9376866,8.595171,Preserved
+RTI-012,English,train,8.75,0.93956566,8.597108,Preserved
+RTI-013,English,train,8.875,0.927344,8.584507,Preserved
+RTI-014,English,train,8.75,0.8902235,8.546236,Preserved
+RTI-015,English,train,8.875,0.9145148,8.5712805,Preserved
+RTI-016,English,train,8.75,0.8138524,8.467497,Preserved
+RTI-017,English,train,8.75,0.8917527,8.547812,Preserved
+RTI-018,English,train,8.875,0.8899226,8.545926,Preserved
+RTI-019,English,validation,8.875,0.85014105,8.50491,Preserved
+RTI-020,English,train,9.0,0.8482624,8.502974,Preserved
+RTI-021,English,validation,8.875,0.8240049,8.477964,Preserved
+RTI-022,English,train,9.125,0.7792491,8.431821,Preserved
+RTI-023,English,train,9.0,0.9304255,8.587685,Preserved
+RTI-024,English,train,8.875,0.9292811,8.586505,Preserved
+RTI-025,English,train,9.125,0.9149708,8.571751,Preserved
+RTI-026,English,validation,8.75,0.9259059,8.583025,Preserved
+RTI-027,English,test,8.5,0.8765619,8.53215,Preserved
+RTI-028,English,train,8.75,0.8058587,8.459255,Preserved
+RTI-029,English,validation,8.375,0.67176944,8.321009,Preserved
+RTI-030,English,train,8.75,0.86190224,8.517036,Preserved
+RTI-031,English,validation,9.125,0.9999999,8.659416,Preserved
+RTI-032,English,train,9.125,1.0,8.659416,Preserved
+RTI-033,English,train,9.375,0.99999976,8.659416,Preserved
+RTI-034,English,train,9.125,0.99999994,8.659416,Preserved
+RTI-035,English,train,8.625,0.9780848,8.636822,Preserved
+RTI-036,English,validation,8.125,0.86880064,8.524149,Preserved
+RTI-037,English,test,9.125,1.0000001,8.659416,Preserved
+RTI-038,English,train,8.125,0.98738563,8.646411,Preserved
+RTI-039,English,train,9.125,1.0000001,8.659416,Preserved
+RTI-040,English,test,9.125,1.0,8.659416,Preserved
+RTI-041,English,train,9.125,0.9991529,8.658543,Preserved
+RTI-042,English,train,9.125,0.99707663,8.656403,Preserved
+RTI-043,English,train,8.125,0.9986603,8.658035,Preserved
+RTI-044,English,train,7.875,0.81684315,8.47058,Partially Preserved
+RTI-045,English,test,8.875,0.998089,8.657446,Preserved
+RTI-046,English,train,8.875,0.9966495,8.655962,Preserved
+RTI-047,English,train,8.875,0.9999999,8.659416,Preserved
+RTI-048,English,train,8.875,1.0,8.659416,Preserved
+RTI-049,English,train,8.875,0.99999994,8.659416,Preserved
+RTI-050,English,train,7.875,0.9891283,8.648208,Partially Preserved
+RTI-051,English,train,8.375,0.9853031,8.644263,Preserved
+RTI-052,English,validation,8.25,0.986349,8.645342,Preserved
+RTI-053,English,train,7.875,0.9848394,8.643785,Partially Preserved
+RTI-054,English,validation,8.875,1.0,8.659416,Preserved
+RTI-055,English,train,8.875,1.0,8.659416,Preserved
+RTI-056,English,train,9.375,1.0,8.659416,Preserved
+RTI-057,English,train,9.125,1.0,8.659416,Preserved
+RTI-058,English,train,8.375,0.98066235,8.639479,Preserved
+RTI-059,English,train,8.0,0.98229164,8.641159,Preserved
+RTI-060,English,test,8.875,0.9716209,8.630157,Preserved
+RTI-061,English,test,7.875,0.9829162,8.641803,Partially Preserved
+RTI-062,English,train,8.125,0.9895842,8.648678,Preserved
+RTI-063,English,validation,8.25,0.977661,8.636385,Preserved
+RTI-064,English,train,8.375,0.97565794,8.634319,Preserved
+RTI-065,English,train,8.125,0.9844216,8.643354,Preserved
+RTI-066,English,train,7.75,0.9869207,8.645931,Partially Preserved
+RTI-067,English,train,8.5,0.9919577,8.651125,Preserved
+RTI-068,English,train,8.875,0.99957967,8.658983,Preserved
+RTI-069,English,train,8.625,0.99223554,8.651411,Preserved
+RTI-070,English,train,8.25,0.93011963,8.587369,Preserved
+RTI-071,English,train,8.5,0.9341617,8.5915365,Preserved
+RTI-072,English,train,9.375,0.9897058,8.648803,Preserved
+RTI-073,English,train,8.5,0.9868649,8.645874,Preserved
+RTI-074,English,validation,8.5,0.97912836,8.6378975,Preserved
+RTI-075,English,train,8.625,0.96721387,8.625613,Preserved
+RTI-076,English,validation,9.625,1.0,8.659416,Preserved
+RTI-077,English,train,8.875,0.99252105,8.651706,Preserved
+RTI-078,English,train,8.625,0.9913688,8.650517,Preserved
+RTI-079,English,train,8.75,0.9928585,8.652054,Preserved
+RTI-080,English,train,9.125,0.98176706,8.640618,Preserved
+RTI-081,English,validation,8.375,0.9812096,8.640043,Preserved
+RTI-082,English,test,8.5,0.97813797,8.636876,Preserved
+RTI-083,English,train,8.875,0.9804844,8.639296,Preserved
+RTI-084,English,train,7.375,0.995528,8.654805,Partially Preserved
+RTI-085,English,train,9.625,1.0,8.659416,Preserved
+RTI-086,English,train,9.375,1.0,8.659416,Preserved
+RTI-087,English,test,9.375,0.99999994,8.659416,Preserved
+RTI-088,English,validation,9.375,1.0,8.659416,Preserved
+RTI-089,English,train,9.375,0.9999999,8.659416,Preserved
+RTI-090,English,train,9.375,0.99999994,8.659416,Preserved
+RTI-091,English,train,8.875,0.9784162,8.637163,Preserved
+RTI-092,English,train,8.75,0.97838837,8.637135,Preserved
+RTI-093,English,train,9.375,0.9800332,8.63883,Preserved
+RTI-094,English,train,9.375,0.99835193,8.657717,Preserved
+RTI-095,English,train,8.875,0.992574,8.65176,Preserved
+RTI-096,English,test,8.875,0.99578595,8.655071,Preserved
+RTI-097,English,test,9.375,0.9990325,8.658419,Preserved
+RTI-098,English,validation,8.375,0.9858046,8.644781,Preserved
+RTI-099,English,test,9.375,0.9998658,8.659278,Preserved
+RTI-100,English,train,6.875,0.9948561,8.654113,Partially Preserved
+RTI-101,English,train,6.75,0.9806478,8.639464,Partially Preserved
+RTI-102,English,train,8.875,0.9983761,8.657742,Preserved
+RTI-103,English,validation,8.375,0.98804104,8.647086,Preserved
+RTI-104,English,test,6.875,0.97997916,8.638775,Partially Preserved
+RTI-105,English,train,9.375,0.9977559,8.657103,Preserved
+RTI-106,English,train,9.375,0.9939424,8.653171,Preserved
+RTI-107,English,train,9.375,0.9771674,8.635876,Preserved
+RTI-108,English,train,8.875,0.998349,8.657714,Preserved
+RTI-109,English,test,9.375,0.984823,8.643768,Preserved
+RTI-110,English,validation,8.375,0.997474,8.656812,Preserved
+RTI-111,English,test,8.875,0.9923576,8.651537,Preserved
+RTI-112,English,train,9.375,0.98862565,8.647689,Preserved
+RTI-113,English,train,8.875,0.98917544,8.648256,Preserved
+RTI-114,English,train,9.375,0.9863109,8.645303,Preserved
+RTI-115,English,train,8.875,0.9893801,8.648467,Preserved
+RTI-116,English,train,8.875,0.985626,8.644596,Preserved
+RTI-117,English,train,8.875,0.9899956,8.649101,Preserved
+RTI-118,English,validation,8.875,0.9889803,8.648055,Preserved
+RTI-119,English,validation,9.375,0.9906204,8.649746,Preserved
+RTI-120,English,test,9.375,0.98683727,8.645845,Preserved
+RTI-121,English,test,9.375,0.99934876,8.658745,Preserved
+RTI-122,English,train,8.875,0.98209953,8.640961,Preserved
+RTI-123,English,test,8.875,0.97107536,8.629595,Preserved
+RTI-124,English,train,9.375,0.9868336,8.645842,Preserved
+RTI-125,English,train,7.375,0.9844771,8.643412,Partially Preserved
+RTI-126,English,test,7.375,0.9963999,8.6557045,Partially Preserved
+RTI-127,English,train,9.375,1.0,8.659416,Preserved
+RTI-128,English,test,8.875,0.9999056,8.659319,Preserved
+RTI-129,English,train,9.375,0.99999994,8.659416,Preserved
+RTI-130,English,validation,7.875,0.99708235,8.656408,Partially Preserved
+RTI-131,English,train,9.375,0.99387425,8.653101,Preserved
+RTI-132,English,validation,8.375,0.98744,8.646467,Preserved
+RTI-133,English,train,8.625,0.9877492,8.646786,Preserved
+RTI-134,English,train,8.125,0.9977479,8.657094,Preserved
+RTI-135,English,test,8.125,0.9931956,8.652401,Preserved
+RTI-136,English,validation,9.125,0.98720527,8.646225,Preserved
+RTI-137,English,train,8.875,0.99015087,8.649261,Preserved
+RTI-138,English,train,9.125,0.9930309,8.652231,Preserved
+RTI-139,English,train,8.875,0.98969364,8.64879,Preserved
+RTI-140,English,train,8.375,0.98546374,8.644429,Preserved
+RTI-141,English,train,8.875,0.9904463,8.649567,Preserved
+RTI-142,English,train,8.625,0.9899048,8.649008,Preserved
+RTI-143,English,train,8.875,0.9920361,8.651205,Preserved
+RTI-144,English,test,9.375,0.987262,8.646283,Preserved
+RTI-145,English,validation,9.125,0.9992632,8.658657,Preserved
+RTI-146,English,train,8.375,0.9915551,8.650709,Preserved
+RTI-147,English,train,8.625,0.9861237,8.645109,Preserved
+RTI-148,English,train,8.625,0.96987945,8.628362,Preserved
+RTI-149,English,train,6.125,0.976395,8.635079,Partially Preserved
+RTI-150,English,train,6.625,0.9959607,8.6552515,Partially Preserved
+RTI-HI-001,Hindi,train,9.0,0.9815985,8.640444,Preserved
+RTI-HI-002,Hindi,train,8.375,0.7643,8.416409,Preserved
+RTI-HI-003,Hindi,train,8.125,0.8219367,8.475832,Preserved
+RTI-HI-004,Hindi,train,8.0,0.90055174,8.556885,Preserved
+RTI-HI-005,Hindi,train,7.625,0.72445196,8.375324,Partially Preserved
+RTI-HI-006,Hindi,train,8.25,0.8505782,8.505362,Preserved
+RTI-HI-007,Hindi,train,8.375,0.82219744,8.476101,Preserved
+RTI-HI-008,Hindi,validation,8.5,0.8326385,8.486866,Preserved
+RTI-HI-009,Hindi,train,8.125,0.856915,8.511894,Preserved
+RTI-HI-010,Hindi,train,8.125,0.8550189,8.50994,Preserved
+RTI-HI-011,Hindi,validation,9.0,0.8155385,8.469235,Preserved
+RTI-HI-012,Hindi,validation,8.875,0.81648517,8.470211,Preserved
+RTI-HI-013,Hindi,test,7.875,0.69934314,8.349438,Partially Preserved
+RTI-HI-014,Hindi,train,8.375,0.7420931,8.393513,Preserved
+RTI-HI-015,Hindi,train,9.125,0.6788639,8.328323,Preserved
+RTI-HI-016,Hindi,train,8.75,0.88088113,8.536604,Preserved
+RTI-HI-017,Hindi,validation,9.25,0.8927453,8.548836,Preserved
+RTI-HI-018,Hindi,train,9.5,0.7948465,8.447902,Preserved
+RTI-HI-019,Hindi,train,8.5,0.86257493,8.51773,Preserved
+RTI-HI-020,Hindi,train,8.5,0.9151606,8.571946,Preserved
+RTI-HI-021,Hindi,train,9.125,0.88543713,8.541301,Preserved
+RTI-HI-022,Hindi,train,8.125,0.8360775,8.490411,Preserved
+RTI-HI-023,Hindi,validation,8.5,0.8437541,8.498325,Preserved
+RTI-HI-024,Hindi,train,8.375,0.916556,8.573385,Preserved
+RTI-HI-025,Hindi,validation,8.125,0.85265106,8.507499,Preserved
+RTI-HI-026,Hindi,train,7.75,0.87426484,8.529782,Partially Preserved
+RTI-HI-027,Hindi,train,8.375,0.7981173,8.451274,Preserved
+RTI-HI-028,Hindi,train,7.75,0.7983589,8.451523,Partially Preserved
+RTI-HI-029,Hindi,train,8.5,0.6905507,8.340372,Preserved
+RTI-HI-030,Hindi,train,8.375,0.85546327,8.510398,Preserved
+RTI-HI-031,Hindi,validation,7.875,0.98664004,8.645642,Partially Preserved
+RTI-HI-032,Hindi,test,9.125,0.99999994,8.659416,Preserved
+RTI-HI-033,Hindi,train,8.625,0.99999994,8.659416,Preserved
+RTI-HI-034,Hindi,train,8.875,0.9993433,8.658739,Preserved
+RTI-HI-035,Hindi,train,9.125,0.99999994,8.659416,Preserved
+RTI-HI-036,Hindi,validation,8.875,1.0,8.659416,Preserved
+RTI-HI-037,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-038,Hindi,train,9.125,1.0000001,8.659416,Preserved
+RTI-HI-039,Hindi,train,8.875,0.9999999,8.659416,Preserved
+RTI-HI-040,Hindi,validation,9.125,1.0000001,8.659416,Preserved
+RTI-HI-041,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-042,Hindi,train,9.125,0.99443156,8.653675,Preserved
+RTI-HI-043,Hindi,train,8.875,0.98779666,8.646834,Preserved
+RTI-HI-044,Hindi,train,9.125,0.99157226,8.650727,Preserved
+RTI-HI-045,Hindi,test,8.875,1.0,8.659416,Preserved
+RTI-HI-046,Hindi,validation,8.375,0.9902444,8.649358,Preserved
+RTI-HI-047,Hindi,validation,8.125,0.98197305,8.64083,Preserved
+RTI-HI-048,Hindi,train,9.375,1.0000001,8.659416,Preserved
+RTI-HI-049,Hindi,train,9.625,1.0,8.659416,Preserved
+RTI-HI-050,Hindi,train,8.875,0.99999994,8.659416,Preserved
+RTI-HI-051,Hindi,train,8.625,0.9950277,8.654289,Preserved
+RTI-HI-052,Hindi,train,7.625,0.992564,8.65175,Partially Preserved
+RTI-HI-053,Hindi,test,8.25,0.98104,8.639869,Preserved
+RTI-HI-054,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-055,Hindi,test,8.375,0.9959254,8.655215,Preserved
+RTI-HI-056,Hindi,train,9.125,1.0,8.659416,Preserved
+RTI-HI-057,Hindi,train,9.125,1.0,8.659416,Preserved
+RTI-HI-058,Hindi,test,9.125,1.0,8.659416,Preserved
+RTI-HI-059,Hindi,train,9.125,0.9999999,8.659416,Preserved
+RTI-HI-060,Hindi,test,7.625,0.98313624,8.64203,Partially Preserved
+RTI-HI-061,Hindi,test,8.125,0.977612,8.636334,Preserved
+RTI-HI-062,Hindi,validation,9.125,1.0,8.659416,Preserved
+RTI-HI-063,Hindi,train,8.375,0.9999999,8.659416,Preserved
+RTI-HI-064,Hindi,train,8.875,0.9999999,8.659416,Preserved
+RTI-HI-065,Hindi,train,8.625,0.99186563,8.65103,Preserved
+RTI-HI-066,Hindi,train,8.625,0.9905405,8.649664,Preserved
+RTI-HI-067,Hindi,train,8.375,0.98996425,8.649069,Preserved
+RTI-HI-068,Hindi,train,7.5,0.95293295,8.610889,Partially Preserved
+RTI-HI-069,Hindi,train,8.875,1.0000001,8.659416,Preserved
+RTI-HI-070,Hindi,train,7.125,0.9968763,8.656196,Partially Preserved
+RTI-HI-071,Hindi,train,7.375,0.928038,8.585223,Partially Preserved
+RTI-HI-072,Hindi,train,7.625,0.9918976,8.651063,Partially Preserved
+RTI-HI-073,Hindi,train,8.875,0.99999994,8.659416,Preserved
+RTI-HI-074,Hindi,train,8.625,0.99999994,8.659416,Preserved
+RTI-HI-075,Hindi,train,8.875,1.0000001,8.659416,Preserved
+RTI-HI-076,Hindi,validation,8.625,1.0,8.659416,Preserved
+RTI-HI-077,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-078,Hindi,train,8.625,1.0,8.659416,Preserved
+RTI-HI-079,Hindi,train,8.875,0.99999994,8.659416,Preserved
+RTI-HI-080,Hindi,train,8.625,1.0,8.659416,Preserved
+RTI-HI-081,Hindi,train,8.875,0.99999994,8.659416,Preserved
+RTI-HI-082,Hindi,train,8.625,0.9999999,8.659416,Preserved
+RTI-HI-083,Hindi,train,8.875,1.0000001,8.659416,Preserved
+RTI-HI-084,Hindi,train,9.125,0.9999999,8.659416,Preserved
+RTI-HI-085,Hindi,validation,9.125,1.0,8.659416,Preserved
+RTI-HI-086,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-087,Hindi,test,9.125,1.0,8.659416,Preserved
+RTI-HI-088,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-089,Hindi,train,9.125,0.99999994,8.659416,Preserved
+RTI-HI-090,Hindi,validation,9.125,1.0,8.659416,Preserved
+RTI-HI-091,Hindi,train,8.875,1.0000001,8.659416,Preserved
+RTI-HI-092,Hindi,test,9.125,1.0,8.659416,Preserved
+RTI-HI-093,Hindi,train,8.875,0.99450326,8.653749,Preserved
+RTI-HI-094,Hindi,train,8.125,0.98302555,8.641915,Preserved
+RTI-HI-095,Hindi,train,7.375,0.989694,8.64879,Partially Preserved
+RTI-HI-096,Hindi,train,6.5,0.98228383,8.64115,Partially Preserved
+RTI-HI-097,Hindi,train,8.375,0.9961545,8.655452,Preserved
+RTI-HI-098,Hindi,train,9.125,0.99054414,8.649667,Preserved
+RTI-HI-099,Hindi,train,8.875,0.9926604,8.651849,Preserved
+RTI-HI-100,Hindi,test,9.125,0.9965396,8.6558485,Preserved
+RTI-HI-101,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-102,Hindi,train,9.0,0.9897013,8.648798,Preserved
+RTI-HI-103,Hindi,validation,6.75,0.9825969,8.641474,Partially Preserved
+RTI-HI-104,Hindi,validation,9.125,0.99885863,8.658239,Preserved
+RTI-HI-105,Hindi,train,9.125,1.0,8.659416,Preserved
+RTI-HI-106,Hindi,test,8.375,0.96962154,8.628096,Preserved
+RTI-HI-107,Hindi,validation,8.875,0.88887084,8.544842,Preserved
+RTI-HI-108,Hindi,test,8.375,0.9022044,8.558588,Preserved
+RTI-HI-109,Hindi,train,8.25,0.9986974,8.658073,Preserved
+RTI-HI-110,Hindi,train,7.375,0.98582244,8.644799,Partially Preserved
+RTI-HI-111,Hindi,train,8.875,1.0000002,8.659416,Preserved
+RTI-HI-112,Hindi,validation,8.75,0.9919548,8.651121,Preserved
+RTI-HI-113,Hindi,test,9.125,0.9906229,8.649748,Preserved
+RTI-HI-114,Hindi,train,9.125,0.99999994,8.659416,Preserved
+RTI-HI-115,Hindi,test,9.125,1.0,8.659416,Preserved
+RTI-HI-116,Hindi,test,9.125,0.9973192,8.656652,Preserved
+RTI-HI-117,Hindi,validation,9.125,0.99671316,8.656028,Preserved
+RTI-HI-118,Hindi,train,9.125,1.0,8.659416,Preserved
+RTI-HI-119,Hindi,train,8.625,0.98352087,8.6424265,Preserved
+RTI-HI-120,Hindi,test,8.625,0.9921936,8.651368,Preserved
+RTI-HI-121,Hindi,test,8.875,0.9921228,8.651295,Preserved
+RTI-HI-122,Hindi,train,8.875,1.0,8.659416,Preserved
+RTI-HI-123,Hindi,test,9.125,0.98677444,8.645781,Preserved
+RTI-HI-124,Hindi,train,9.375,0.9966121,8.655923,Preserved
+RTI-HI-125,Hindi,train,9.375,0.9964545,8.655761,Preserved
+RTI-HI-126,Hindi,train,9.375,0.9992057,8.658597,Preserved
+RTI-HI-127,Hindi,train,9.375,0.99685705,8.656176,Preserved
+RTI-HI-128,Hindi,train,9.375,0.9990592,8.658446,Preserved
+RTI-HI-129,Hindi,train,9.375,0.9988425,8.658223,Preserved
+RTI-HI-130,Hindi,train,8.375,1.0,8.659416,Preserved
+RTI-HI-131,Hindi,train,8.125,1.0,8.659416,Preserved
+RTI-HI-132,Hindi,train,7.875,1.0,8.659416,Partially Preserved
+RTI-HI-133,Hindi,train,8.125,1.0,8.659416,Preserved
+RTI-HI-134,Hindi,test,7.875,1.0,8.659416,Partially Preserved
+RTI-HI-135,Hindi,train,8.125,0.9970329,8.656357,Preserved
+RTI-HI-136,Hindi,train,8.125,0.9982911,8.657654,Preserved
+RTI-HI-137,Hindi,train,7.875,0.989722,8.64882,Partially Preserved
+RTI-HI-138,Hindi,train,8.125,0.99256766,8.651753,Preserved
+RTI-HI-139,Hindi,train,7.875,0.99906003,8.658447,Partially Preserved
+RTI-HI-140,Hindi,train,8.375,0.998827,8.658207,Preserved
+RTI-HI-141,Hindi,train,8.125,0.99787337,8.657224,Preserved
+RTI-HI-142,Hindi,train,8.125,0.9964191,8.655725,Preserved
+RTI-HI-143,Hindi,validation,8.375,0.9947946,8.654049,Preserved
+RTI-HI-144,Hindi,test,7.875,0.9990277,8.658414,Partially Preserved
+RTI-HI-145,Hindi,train,7.625,1.0,8.659416,Partially Preserved
+RTI-HI-146,Hindi,test,7.875,1.0,8.659416,Partially Preserved
+RTI-HI-147,Hindi,train,7.875,0.99784726,8.657197,Partially Preserved
+RTI-HI-148,Hindi,test,7.875,0.98814034,8.647189,Partially Preserved
+RTI-HI-149,Hindi,train,5.875,0.9997333,8.659142,Partially Preserved
+RTI-HI-150,Hindi,validation,8.125,0.99578655,8.655072,Preserved
