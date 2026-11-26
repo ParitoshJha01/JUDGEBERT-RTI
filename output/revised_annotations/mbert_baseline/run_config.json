@@ -1,0 +1,49 @@
+{
+  "model": "google-bert/bert-base-multilingual-cased",
+  "seed": 42,
+  "max_length": 256,
+  "batch_size": 2,
+  "epochs_requested": 12,
+  "learning_rate": 1e-05,
+  "weight_decay": 0.01,
+  "patience": 3,
+  "best_epoch": 12,
+  "best_validation_rmse": 0.9061745579328991,
+  "test_metrics": [
+    {
+      "Split": "test",
+      "Language": "All",
+      "N": 46,
+      "Pearson_r": 0.7735676169395447,
+      "Spearman_rho": 0.6979661002132977,
+      "MAE": 0.732772171497345,
+      "RMSE": 1.0627862881190495,
+      "Prediction_SD": 1.1011466979980469,
+      "Target_SD": 1.6247729063034058
+    },
+    {
+      "Split": "test",
+      "Language": "English",
+      "N": 23,
+      "Pearson_r": 0.8119751214981079,
+      "Spearman_rho": 0.7437596035212737,
+      "MAE": 1.0479048490524292,
+      "RMSE": 1.2627347274729745,
+      "Prediction_SD": 1.2185770273208618,
+      "Target_SD": 1.9164990186691284
+    },
+    {
+      "Split": "test",
+      "Language": "Hindi",
+      "N": 23,
+      "Pearson_r": 0.7675594687461853,
+      "Spearman_rho": 0.7862406690994683,
+      "MAE": 0.41763952374458313,
+      "RMSE": 0.8151872285846684,
+      "Prediction_SD": 0.9169387817382812,
+      "Target_SD": 1.266106128692627
+    }
+  ],
+  "target": "Revised LMP_Score on original 1-10 scale",
+  "selection": "Checkpoint selected using validation RMSE; test evaluated once."
+}

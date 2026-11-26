@@ -1,0 +1,19 @@
+{
+  "model": "google-bert/bert-base-multilingual-cased",
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "experiments": [
+    {
+      "pooling": "cls",
+      "loss": "huber"
+    }
+  ],
+  "batch_size": 2,
+  "epochs": 12,
+  "learning_rate": 1e-05,
+  "selection": "Validation RMSE only",
+  "test_note": "Test evaluated once per seed; do not select a seed/configuration by test performance."
+}

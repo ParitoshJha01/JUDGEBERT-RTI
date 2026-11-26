@@ -1,0 +1,47 @@
+﻿Pair_ID,Language,LMP_Score,Predicted_LMP_Score,Provisional_Label
+RTI-004,English,9.0,8.874643,Preserved
+RTI-007,English,10.0,6.716261,Preserved
+RTI-027,English,10.0,8.771043,Preserved
+RTI-037,English,5.0,4.9463673,Not Preserved
+RTI-040,English,5.0,4.7158175,Not Preserved
+RTI-045,English,6.5,5.298162,Partially Preserved
+RTI-060,English,2.5,4.506099,Not Preserved
+RTI-061,English,4.5,5.8971734,Not Preserved
+RTI-082,English,5.5,4.6709337,Not Preserved
+RTI-087,English,5.0,4.889044,Not Preserved
+RTI-096,English,5.5,4.1604385,Not Preserved
+RTI-097,English,6.5,5.4452996,Partially Preserved
+RTI-099,English,6.0,4.7024155,Partially Preserved
+RTI-104,English,2.5,4.314904,Not Preserved
+RTI-109,English,6.5,5.5715246,Partially Preserved
+RTI-111,English,6.0,5.2085767,Partially Preserved
+RTI-120,English,6.5,5.456259,Partially Preserved
+RTI-121,English,6.0,5.4078107,Partially Preserved
+RTI-123,English,6.0,5.8008904,Partially Preserved
+RTI-126,English,2.5,3.827397,Not Preserved
+RTI-128,English,6.0,4.67453,Partially Preserved
+RTI-135,English,6.0,5.220775,Partially Preserved
+RTI-144,English,6.5,5.412971,Partially Preserved
+RTI-HI-013,Hindi,10.0,8.790493,Preserved
+RTI-HI-032,Hindi,5.0,5.3554554,Not Preserved
+RTI-HI-045,Hindi,5.0,4.902869,Not Preserved
+RTI-HI-053,Hindi,6.0,6.9866924,Partially Preserved
+RTI-HI-055,Hindi,6.5,6.5926676,Partially Preserved
+RTI-HI-058,Hindi,5.0,4.945395,Not Preserved
+RTI-HI-060,Hindi,6.5,6.1477737,Partially Preserved
+RTI-HI-061,Hindi,6.5,7.066229,Partially Preserved
+RTI-HI-087,Hindi,5.0,4.846194,Not Preserved
+RTI-HI-092,Hindi,5.0,4.7220373,Not Preserved
+RTI-HI-100,Hindi,6.0,5.954068,Partially Preserved
+RTI-HI-106,Hindi,6.5,6.370842,Partially Preserved
+RTI-HI-108,Hindi,6.5,5.8364544,Partially Preserved
+RTI-HI-113,Hindi,6.0,5.9994354,Partially Preserved
+RTI-HI-115,Hindi,5.0,4.8843102,Not Preserved
+RTI-HI-116,Hindi,6.0,5.805112,Partially Preserved
+RTI-HI-120,Hindi,6.0,5.925269,Partially Preserved
+RTI-HI-121,Hindi,6.0,6.0107875,Partially Preserved
+RTI-HI-123,Hindi,6.5,5.895557,Partially Preserved
+RTI-HI-134,Hindi,5.0,4.791987,Not Preserved
+RTI-HI-144,Hindi,6.0,6.002386,Partially Preserved
+RTI-HI-146,Hindi,5.0,5.058684,Not Preserved
+RTI-HI-148,Hindi,2.5,5.850605,Not Preserved

@@ -1,0 +1,36 @@
+{
+  "model_name": "google-bert/bert-base-multilingual-cased",
+  "max_length": 256,
+  "batch_size": 1,
+  "epochs": 15,
+  "learning_rate": 1e-05,
+  "weight_decay": 0.01,
+  "patience": 4,
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "experiments": [
+    {
+      "pooling": "cls",
+      "loss": "mse"
+    },
+    {
+      "pooling": "cls",
+      "loss": "huber"
+    },
+    {
+      "pooling": "mean",
+      "loss": "mse"
+    },
+    {
+      "pooling": "mean",
+      "loss": "huber"
+    }
+  ],
+  "huber_delta": 1.0,
+  "dropout": 0.2,
+  "label_caveat": "Targets are provisional weighted consensus scores. The dataset has substantial annotator disagreement; results should be interpreted cautiously.",
+  "selection_rule": "Best epoch selected by validation RMSE. Do not select a configuration based on test metrics."
+}

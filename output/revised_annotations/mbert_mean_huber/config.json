@@ -1,0 +1,19 @@
+{
+  "model": "google-bert/bert-base-multilingual-cased",
+  "pooling": "masked mean pooling over non-padding token embeddings",
+  "loss": "Huber",
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "max_length": 256,
+  "batch_size": 2,
+  "epochs": 12,
+  "learning_rate": 1e-05,
+  "weight_decay": 0.01,
+  "patience": 3,
+  "target": "LMP_Score on original 1-10 scale",
+  "checkpoint_selection": "Lowest validation RMSE",
+  "test_evaluation": "Each seed's selected checkpoint evaluated once on the fixed test split"
+}
