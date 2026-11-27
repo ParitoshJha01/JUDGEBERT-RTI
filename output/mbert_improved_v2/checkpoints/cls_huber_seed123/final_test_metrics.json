@@ -1,0 +1,16 @@
+{
+  "Run": "cls_huber_seed123",
+  "Dataset": "D:\\Judgebert RTI\\dataset\\RTI_Model_Ready_Dataset_400_Integrated.csv",
+  "Train_N": 290,
+  "Validation_N": 64,
+  "Test_N": 46,
+  "Best_Epoch": 3,
+  "Best_Validation_RMSE": 2.13177399887893,
+  "N": 46,
+  "Pearson_r": 0.0054354001807949736,
+  "Spearman_rho": 0.0018147918420539097,
+  "MAE": 0.566124439239502,
+  "RMSE": 0.6420634749469074,
+  "Prediction_SD": 0.022105638166330436,
+  "Target_SD": 0.6127822832410091
+}

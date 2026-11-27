@@ -1,0 +1,20 @@
+{
+  "best_epoch": 6,
+  "best_validation_rmse": 1.3872036797906981,
+  "test_regression": {
+    "N": 60,
+    "MAE": 1.216697335243225,
+    "RMSE": 2.2256720653036353,
+    "Pearson_r": 0.10206294059753418,
+    "Spearman_rho": 0.1637955890955199
+  },
+  "test_critical_change": {
+    "N": 59,
+    "Accuracy": 0.711864406779661,
+    "Precision": 0.15384615384615385,
+    "Recall": 0.25,
+    "F1": 0.19047619047619047
+  },
+  "critical_change_threshold": 0.5,
+  "note": "Experimental; labels require human annotation/adjudication."
+}

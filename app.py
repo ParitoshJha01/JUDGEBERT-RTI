@@ -7,11 +7,10 @@ import torch
 from torch import nn
 from transformers import AutoModel, AutoTokenizer
 
-# Run app.py from the project root. Expected model outputs:
-# output/mbert_improved_v1/checkpoints/cls_mse_seed42/
+# Run app.py from the project root. 
 PROJECT_ROOT = Path(__file__).resolve().parent
-CHECKPOINT_ROOT = PROJECT_ROOT / "output" / "mbert_improved_v1" / "checkpoints"
-DEFAULT_RUN = CHECKPOINT_ROOT / "cls_huber_seed123"
+CHECKPOINT_ROOT = PROJECT_ROOT / "output" / "mbert_improved_v3_grouped" / "checkpoints"
+DEFAULT_RUN = CHECKPOINT_ROOT / "cls_huber_seed123_grouped"
 MAX_LENGTH = 256
 DROPOUT = 0.2
 

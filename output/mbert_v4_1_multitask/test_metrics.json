@@ -1,0 +1,20 @@
+{
+  "best_epoch": 10,
+  "best_validation_rmse": 1.547082521024176,
+  "test_regression": {
+    "N": 60,
+    "MAE": 1.3577817678451538,
+    "RMSE": 2.1790769535462298,
+    "Pearson_r": 0.12280215322971344,
+    "Spearman_rho": 0.12649293103247805
+  },
+  "test_critical_change": {
+    "N": 59,
+    "Accuracy": 0.8305084745762712,
+    "Precision": 0.3333333333333333,
+    "Recall": 0.25,
+    "F1": 0.2857142857142857
+  },
+  "critical_change_threshold": 0.5,
+  "note": "v4.1 experimental run. Synthetic expansion rows are train-only; original validation/test remain unchanged. Labels require human review/adjudication."
+}

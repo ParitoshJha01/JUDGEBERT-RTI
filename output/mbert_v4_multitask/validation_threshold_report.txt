@@ -1,0 +1,7 @@
+VALIDATION-ONLY THRESHOLD ANALYSIS
+Validation labeled N: 60; positives: 12; negatives: 48
+Best validation F1 threshold (exploratory): 0.650
+At this threshold: F1=0.667, Precision=1.000, Recall=0.500, Accuracy=0.900
+
+Do not use the validation-selected threshold to claim test performance until evaluating the held-out test set once.
+Threshold selection is unstable with a small validation set; report the threshold and validation metrics transparently.
